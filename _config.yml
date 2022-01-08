@@ -1,0 +1,11 @@
+name: (Unofficial) Oxide and Friends Twitter Spaces Podcast
+description: (Unofficial) Twitter Spaces recordings of Oxide and Friends
+author: Oxide Computer Company
+email: podcasts@oxide.computer
+tags: technology, hardware, software, on the metal
+feed: https://chinmay.audio/twitter-spaces/feed.xml
+exclude: ['README.md', "TEMPLATE.md", "*.sh", "*.part"]
+markdown: kramdown
+url: https://chinmay.audio/twitter-spaces/
+# url: http://localhost:4000
+logo: "public/logo.png"

@@ -1,0 +1,297 @@
+- number: 1
+  title: "Mr. Leventhal, Come here I want to see you"
+  date: May 3, 2021
+  description: "Mr. Leventhal, Come here I want to see you"
+  content: "# Oxide and Friends Twitter Space: May 3, 2021\n\n## Mr. Leventhal, Come here I want to see you\n\nWe've been holding a Twitter Space on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for May 3, 2021](https://youtu.be/h-WSU3kiXVg).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on May 3rd included\n[Laura Abbott](https://twitter.com/openlabbott),\n[Nate](https://twitter.com/perlhack),\n[Antranig Vartanian](https://twitter.com/antranigv),\n[François Baldassari](https://twitter.com/baldassarifr),\n[Tom Killalea](https://twitter.com/tomk_),\n[Land Belenky](https://twitter.com/LBelenky),\nand [Sid?]().\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nBefore the recording started, we discussed:\n\n- 2011 Solaris Family Reunion [video](https://www.youtube.com/watch?v=g0591H_kHwo) ~20mins\n- Katie Moussouris’s [blog entry][km-vul] on the Clubhouse vulnerabilities\n- Laura's [blog entry][lcp55] on the LPC55 vulnerability\n- Land pointing us to the Atmega 328p MCU in a BK Medical endorectal probe\n- François on the STM32F103 found in Pebble\n- [Intel Management Engine](https://en.wikipedia.org/wiki/Intel_Management_Engine)\n"
+  enclosure: audio/Mr._Leventhal,_Come_here_I_want_to_see_you
+  length: 81711
+  permalink: https://youtu.be/h-WSU3kiXVg
+  tags: 
+  topic: 
+
+- number: 2
+  title: "A Requiem for SPARC with Tom Lyon"
+  date: May 10, 2021
+  description: "A Requiem for SPARC with Tom Lyon"
+  content: "# Oxide and Friends Twitter Space: May 10, 2021\n\n## A Requiem for SPARC with Tom Lyon\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nIn addition to [@bcantrill](https://twitter.com/bcantrill) and\n[@ahl](https://twitter.com/ahl), speakers included\nspecial guest [Tom Lyon](https://twitter.com/aka_pugs)\nplus [Joshua Clulow](https://twitter.com/jmclulow),\n[Dan McDonald](https://twitter.com/kebesays),\n[Dan Cross](https://twitter.com/dancrossnyc),\n[Tom Killalea](https://twitter.com/tomk_),\n[Theo Schlossnagle](https://twitter.com/postwait),\n[Antranig Vartanian](https://twitter.com/antranigv), and\n[@perlhack](https://twitter.com/perlhack).\n\nWe recorded the space; [the recording is here](https://youtu.be/79NNXn5Kr90).\n\nSome of the topics we hit on, in the order that we hit them:\n\n- [@2:06](https://youtu.be/79NNXn5Kr90?t=126)\n  SPARC [30th anniversary dinner](https://twitter.com/aka_pugs/status/1391238774978347010)\n  > SPARC was an amazing achievement for its time,\n  > but there were some nasty trade-offs made.\n- [@2:56](https://youtu.be/79NNXn5Kr90?t=176)\n  illumos [announcement][end support] on the end of\n  [SPARC](https://en.wikipedia.org/wiki/SPARC) support\n  - [SPARCstation 2](https://en.wikipedia.org/wiki/SPARCstation_2)\n- [@4:37](https://youtu.be/79NNXn5Kr90?t=277)\n  \"There is no photography allowed in the bring-up lab\" story\n"
+  enclosure: audio/A_Requiem_for_SPARC_with_Tom_Lyon
+  length: 81711
+  permalink: https://youtu.be/79NNXn5Kr90
+  tags: 
+  topic: 
+
+- number: 3
+  title: "golang asserts and the PLATO terminal"
+  date: May 17, 2021
+  description: "golang asserts and the PLATO terminal"
+  content: "# Oxide and Friends Twitter Space: May 17, 2021\n\n## golang asserts and the PLATO terminal\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nIn addition to [Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl), speakers included\n[Adam Jacob](https://twitter.com/adamhjk/),\n[Matt Ranney](https://twitter.com/mranney),\n[Nima Johari](https://twitter.com/NimaJohari),\n[Antranig Vartanian](https://twitter.com/antranigv),\n[Joshua Clulow](https://twitter.com/jmclulow),\n[Tom Lyon](https://twitter.com/aka_pugs), and\n[Bob Mader](https://twitter.com/c50bae86ae1b461)\n(and thanks to [Jeremy Morris](https://twitter.com/morrislaw93?lang=en) for\n[catching Bob's profile!](https://twitter.com/MorrisLaw93/status/1394497085592981510)).\n\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nWe recorded the space, but we had some challenges, and we lost the recording\nwhen the first Twitter Space died at around 5:30p.\nWe recorded the second half though;\n[the recording is here](https://youtu.be/8tJEwCvZWsg).\n\nSome of the topics we hit on, in the order that we hit them:\n\n- Khan Academy [blog entry](https://blog.khanacademy.org/half-a-million-lines-of-go/) on Go\n- Adam's blog entry, [I Love Go, I Hate Go][love hate]\n  > I found novelty in the strictures, but objected to some of the specifics\n- [@2:40](https://youtu.be/8tJEwCvZWsg?t=160)\n"
+  enclosure: audio/golang_asserts_and_the_PLATO_terminal
+  length: 81711
+  permalink: https://youtu.be/8tJEwCvZWsg
+  tags: 
+  topic: 
+
+- number: 4
+  title: "from /proc to proc_macro"
+  date: May 24, 2021
+  description: "from /proc to proc_macro"
+  content: "# Oxide and Friends Twitter Space: May 24, 2021\n\n## from /proc to proc_macro\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nIn addition to [Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl), speakers included\n[Brian Cantrell](https://twitter.com/briancantrell) (not making that one up!),\n[Nima Johari](https://twitter.com/NimaJohari),\n[Joshua Clulow](https://twitter.com/jmclulow),\n[Laura Abbott](https://twitter.com/openlabbott), and\n[Tom Lyon](https://twitter.com/aka_pugs).\n[The recording is here.](https://youtu.be/85eApYSj3ic)\n\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- The [other Adam Leventhal](https://twitter.com/adamleventhal)\n  [[1]](https://twitter.com/AdamLeventhal/status/392036112623206400)\n  and the [other AHL](https://twitter.com/theahl)\n  [[2]](https://twitter.com/TheAHL/status/504697752438456320)\n- [@3:16](https://youtu.be/85eApYSj3ic?t=196) Hockey\n  - [Calder Cup](https://en.wikipedia.org/wiki/Calder_Cup)\n  - [Charlotte Checkers](https://en.wikipedia.org/wiki/Charlotte_Checkers)\n  - [Grand Rapids Griffins](https://en.wikipedia.org/wiki/Grand_Rapids_Griffins)\n- [@4:02](https://youtu.be/85eApYSj3ic?t=242)\n  [Roger Faulkner](https://www.usenix.org/memoriam-roger-faulkner)\n  invented the /proc filesystem\n- Gerald Ford [Presidential Library and Museum](https://www.fordlibrarymuseum.gov/)\n"
+  enclosure: audio/from_\proc_to_proc_macro
+  length: 81711
+  permalink: https://youtu.be/85eApYSj3ic
+  tags: 
+  topic: 
+
+- number: 5
+  title: "Silicon Cowboys"
+  date: May 31, 2021
+  description: "Silicon Cowboys"
+  content: "# Oxide and Friends Twitter Space: May 31, 2021\n\n## Silicon Cowboys\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nIn addition to [Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl), speakers included\n[Steve Tuck](https://twitter.com/sdtuck),\n[Tom Lyon](https://twitter.com/aka_pugs),\n[Dan Cross](https://twitter.com/DanCrossNYC), and others.\n[The recording is here.](https://www.youtube.com/watch?v=faY7kWHQuNE)\n\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- [Silicon Cowboys documentary](#silicon-cowboys)\n- [Open by Rod Canion](#open-by-canion)\n- [Portable before Compaq, Silent 700](#portable-before-compaq)\n- [Osborne Effect](#osborne-effect)\n- [PBS Silicon Valley documentary](#pbs-silicon-valley)\n- [IBM's role in Compaq history](#ibms-role)\n- [80's Ads: John Cleese, Charlie Chaplin](#80s-ads)\n- [Compaq and iPhone?](#compaq-and-iphone)\n- [Decline and Acquisition](#decline-and-acquisition)\n- [Something Ventured documentary](#something-ventured)\n- PRs welcome!\n\n[@1:25](https://youtu.be/faY7kWHQuNE?t=85) Bryan: Have you listened to the\n[Reply All episode](https://gimletmedia.com/shows/reply-all/z3hlwr)\n"
+  enclosure: audio/Silicon_Cowboys
+  length: 81711
+  permalink: https://www.youtube.com/watch?v=faY7kWHQuNE
+  tags: 
+  topic: 
+
+- number: 6
+  title: "Barracuda 7200.11: broken firmware is broken software!"
+  date: June 7, 2021
+  description: "Barracuda 7200.11: broken firmware is broken software!"
+  content: "# Oxide and Friends Twitter Space: June 7, 2021\n\n## Barracuda 7200.11: broken firmware is broken software!\n\nWe've been holding a Twitter Space weekly on Mondays at 5p (PT) for about an hour.\nIn addition to [Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl), speakers included\n[Laura Abbott](https://twitter.com/openlabbott),\n[Joshua Clulow](https://twitter.com/jmclulow),\n[Dan Cross](https://twitter.com/DanCrossNYC),\n[Bill Blum](https://twitter.com/billblum),\n[Rick Altherr](https://twitter.com/kc8apf),\n[Tom Lyon](https://twitter.com/aka_pugs),\nand others.\n[The recording is here.](https://youtu.be/qisoAIx8EE8)\n\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- The [Seagate ST3000DM001](https://en.wikipedia.org/wiki/ST3000DM001)\n  - [class action]\n- [@2:01](https://youtu.be/qisoAIx8EE8?t=121) Bryan and Adam's experience\n  - [Fishworks]\n  - [HGST](https://en.wikipedia.org/wiki/HGST)\n  - Bryan is [unable to forget SU0D][su0d]\n  > This thing damn near ruined our lives\n  - [Broad Institute](https://en.wikipedia.org/wiki/Broad_Institute)\n  - The Seagate [Barracuda product line](https://en.wikipedia.org/wiki/Seagate_Barracuda).\n    [7200.10](https://en.wikipedia.org/wiki/Seagate_Barracuda#Barracuda_7200.10_(2006)),\n"
+  enclosure: audio/Barracuda_7200.11:_broken_firmware_is_broken_software!
+  length: 81711
+  permalink: https://youtu.be/qisoAIx8EE8
+  tags: 
+  topic: 
+
+- number: 7
+  title: "What's a bug? What's a debugger?"
+  date: June 21, 2021
+  description: "What's a bug? What's a debugger?"
+  content: "# Oxide and Friends Twitter Space: June 21, 2021\n\n## What's a bug? What's a debugger?\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for June 21, 2021](https://youtu.be/UOucW3F7nCg).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on June 21st included\n[Dan Cross](https://twitter.com/dancrossnyc),\n[Sean Klein](https://twitter.com/does_he_byte),\n[Aram Hăvărneanu](https://twitter.com/aramh),\nand the mononymous [Nate](https://twitter.com/perlhack).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- [Adam's toddler](https://twitter.com/ahl/status/1381978199404371968) (being chased by a rooster)\n  > Don't get me wrong, some of my best friends are three-year-olds.\n- [@3:12](https://youtu.be/UOucW3F7nCg?t=192) Sy Brand's tutorial\n  [Writing a Debugger](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)\n  - [Lobsters](https://lobste.rs/) -- when HN isn't enough!\n- [@4:34](https://youtu.be/UOucW3F7nCg?t=274) Bryan's debuggers\n  - [MDB](https://illumos.org/books/mdb/intro-1.html#intro-1) Modular Debugger\n  > Adam: I think people are using cargo-cult debugging, rather than getting to the root cause\n  > of these things, or being satisfied until they get to the root cause. \\n"
+  enclosure: audio/What's_a_bug?_What's_a_debugger?
+  length: 81711
+  permalink: https://youtu.be/UOucW3F7nCg
+  tags: 
+  topic: 
+
+- number: 8
+  title: "NeXT, Objective-C, and contrasting histories"
+  date: July 5, 2021
+  description: "NeXT, Objective-C, and contrasting histories"
+  content: "# Oxide and Friends Twitter Space: July 5, 2021\n\n## NeXT, Objective-C, and contrasting histories\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for July 5, 2021](https://youtu.be/2H9XQBdLB0Y).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on July 5th included\n[Tom Lyon](https://twitter.com/aka_pugs),\n[Ian](),\n[bch](https://twitter.com/bcharder),\n[Theo Schlossnagle](https://twitter.com/postwait),\n[Rick Altherr](https://twitter.com/kc8apf),\nand [Nate](https://twitter.com/perlhack).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- First Twitter Space, May 3rd\n  - the [lost recording](https://youtu.be/h-WSU3kiXVg) (~31mins)\n  - (possible?) genesis of\n    [the idea to record spaces](https://twitter.com/bcantrill/status/1389813167342047232)\n  - Adam's [process](https://twitter.com/ahl/status/1394528921379500034) for recording spaces\n  - Someone (Sid?) [mentioned](https://youtu.be/h-WSU3kiXVg?t=1687)\n    NeXT's transparent compensation model\n"
+  enclosure: audio/NeXT,_Objective-C,_and_contrasting_histories
+  length: 81711
+  permalink: https://youtu.be/2H9XQBdLB0Y
+  tags: 
+  topic: 
+
+- number: 9
+  title: "Agile + 20"
+  date: July 26, 2021
+  description: "Agile + 20"
+  content: "# Oxide and Friends Twitter Space: July 26, 2021\n\n## Agile + 20\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for July 26, 2021](https://youtu.be/3tp5EtPdPwY).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on July 26 included\n[Tom Lyon](https://twitter.com/aka_pugs),\n[Tom Killalea](https://twitter.com/tomk_),\n[Dan Cross](https://twitter.com/dancrossnyc),\n[Aaron Goldman](https://twitter.com/aarondgoldman),\nand others.\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- Al Tenhundfeld's [Agile at 20: The Failed Rebellion](https://www.simplethread.com/agile-at-20-the-failed-rebellion/)\n- The Agile [Manifesto](https://agilemanifesto.org/)\n- [@0:55](https://youtu.be/3tp5EtPdPwY?t=55) Adam's experiences\n- From the Agile Manifesto [history](https://agilemanifesto.org/history.html)\n  > The only concern with the term agile came from Martin Fowler\n  > (a Brit for those who don’t know him) who allowed that\n  > most Americans didn’t know how to pronounce the word 'agile'.\n- [@6:25](https://youtu.be/3tp5EtPdPwY?t=385)\n"
+  enclosure: audio/Agile_+_20
+  length: 81711
+  permalink: https://youtu.be/3tp5EtPdPwY
+  tags: 
+  topic: 
+
+- number: 10
+  title: "The Showstopper Show"
+  date: August 16, 2021
+  description: "The Showstopper Show"
+  content: "# Oxide and Friends Twitter Space: August 16th, 2021\n\n## The Showstopper Show\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for August 16th, 2021](https://youtu.be/hlQuF75L4TE).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on August 16th included special guests\n[G. Pascal Zachary](https://twitter.com/Gpascalzachary)\n(see [gpascalzachary.com](https://www.gpascalzachary.com)),\nand [Jessamyn West](https://twitter.com/jessamyn)\n(see [jessamyn.medium.com](https://jessamyn.medium.com)),\nas well as\n[Dan Cross](https://twitter.com/dancrossnyc),\n[Tom Lyon](https://twitter.com/aka_pugs),\n[Josh Clulow](https://twitter.com/jmclulow),\nand others.\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- G. Pascal Zachary's \"Showstopper! The Breakneck Race to Create\n  Windows NT and the Next Generation at Microsoft\" [book][show]\n- Tracy Kidder's \"The Soul of a New Machine\" [book][soul]\n- [@0:46](https://youtu.be/hlQuF75L4TE?t=46) \"The endless debate of NT vs Unix.\"\n"
+  enclosure: audio/The_Showstopper_Show
+  length: 81711
+  permalink: https://youtu.be/hlQuF75L4TE
+  tags: 
+  topic: 
+
+- number: 11
+  title: "The episode formerly known as ℔"
+  date: August 23, 2021
+  description: "The episode formerly known as ℔"
+  content: "# Oxide and Friends Twitter Space: August 23rd, 2021\n\n## The episode formerly known as ℔\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for August 23rd, 2021](https://youtu.be/-ZRv6EHaQYM).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on August 23rd included\n[Neal Gompa](https://twitter.com/Det_Conan_Kudo),\n[Tom Lyon](https://twitter.com/aka_pugs),\n[Laura Abbott](https://twitter.com/openlabbott),\n[Jeremy Tanner](https://twitter.com/Penguin),\n[Matt Campbell](https://twitter.com/mw_campbell),\n[Simeon Miteff](https://twitter.com/simeonmiteff)\nand others.\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- Last week's [recording](https://youtu.be/hlQuF75L4TE) on\n  \"Showstopper\" with author G. Pascal Zachary, and Jessamyn West.\n- [Ashton-Tate](https://en.wikipedia.org/wiki/Ashton-Tate) history\n  (there never was any Ashton, and dBASE II *was* the first version)\n  - [dBASE IV][dbase4] was \"slow, buggy\" and didn't get fixed in a timely manner\n  - Last week, Pascal mentioned that CEO\n"
+  enclosure: audio/The_episode_formerly_known_as_℔
+  length: 81711
+  permalink: https://www.youtube.com/watch?v=-ZRv6EHaQYM
+  tags: 
+  topic: 
+
+- number: 12
+  title: "A brief history of talking computers"
+  date: August 30, 2021
+  description: "A brief history of talking computers"
+  content: "# Oxide and Friends Twitter Space: August 30th, 2021\n\n## A brief history of talking computers\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for August 30, 2021](https://youtu.be/b9GVJg0LRX4).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on August 30th included special guest\n[Matt Campbell](https://twitter.com/mw_campbell),\nas well as\n[MattSci](https://twitter.com/MattSci2),\n[TVRaman](https://twitter.com/TVRaman),\n[Jessamyn West](https://twitter.com/jessamyn)\nand [Dan Cross](https://twitter.com/dancrossnyc).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- Brian Dear's [The Friendly Orange Glow][glow]\n  - Brodie Lockard [created amazing software][lockard] on PLATO\n  - Control Data Corp [Homework][homework]\n- [@2:47](https://youtu.be/b9GVJg0LRX4?t=167) Matt's intro\n  - Deane Blazie [created TotalTalk][wp-totaltalk], a speaking terminal.\n    See his 2004 [interview][blazie-interview].\n  - Apple IIe [computer](https://en.wikipedia.org/wiki/Apple_IIe)\n"
+  enclosure: audio/A_brief_history_of_talking_computers
+  length: 81711
+  permalink: https://youtu.be/b9GVJg0LRX4
+  tags: 
+  topic: 
+
+- number: 13
+  title: "Put the OS back in OSDI"
+  date: September 6th, 2021
+  description: "Put the OS back in OSDI"
+  content: "# Oxide and Friends Twitter Space: September 6th, 2021\n\n## Put the OS back in OSDI\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for September 6th, 2021](https://youtu.be/PVJfqjJJCkg).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on September 6th included\n[Dan Cross](https://twitter.com/DanCrossNYC),\n[Josh Clulow](https://twitter.com/jmclulow),\n[Tom Lyon](https://twitter.com/aka_pugs),\n[Simeon Miteff](https://twitter.com/simeonmiteff),\n[Daniel Maslowski](https://twitter.com/OrangeCMS),\n[Matt Campbell](https://twitter.com/mw_campbell) and\n[Moritz](https://twitter.com/MoritzFago).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- Adam's [tweets](https://twitter.com/ahl/status/1394528921379500034)\n  on recording Twitter Spaces.\n- [Tweet](https://twitter.com/ahl/status/1433664622620381186) on\n  recovering a recording!\n- [@4:57](https://youtu.be/PVJfqjJJCkg?t=297) Timothy Roscoe's Keynote\n  - [Screenshots](https://twitter.com/bagchi_saurabh/status/1416066717118251020)\n"
+  enclosure: audio/Put_the_OS_back_in_OSDI
+  length: 81711
+  permalink: https://youtu.be/PVJfqjJJCkg
+  tags: 
+  topic: 
+
+- number: 14
+  title: "Docker, Inc., an Early Epitaph"
+  date: September 13th, 2021
+  description: "Docker, Inc., an Early Epitaph"
+  content: "# Oxide and Friends Twitter Space: September 13th, 2021\n\n## Docker, Inc., an Early Epitaph\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for September 13th, 2021](https://youtu.be/l9LTJdT0sZ8).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on September 13th included\n[Steve Tuck](https://twitter.com/sdtuck),\n[Tom Lyon](https://twitter.com/aka_pugs),\n[Dan Cross](https://twitter.com/DanCrossNYC),\n[Josh Clulow](https://twitter.com/jmclulow),\n[Ian](https://twitter.com/iangrunert),\n[Nick Gerace](https://twitter.com/nickgeracehacks),\n[Aaron Goldman](https://twitter.com/aarondgoldman),\n[Drew Vogel](https://twitter.com/drewonpaper),\nand [vint serp](https://twitter.com/ZackMaril).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- Topic: Scott Carey's article [How Docker broke in half][docker-broke]\n  - More by Carey on Docker:\n    - [Docker Desktop is no longer free for enterprise users][docker-desktop]\n    - [What is Docker? The spark for the container revolution][docker-what-is]\n"
+  enclosure: audio/Docker,_Inc.,_an_Early_Epitaph
+  length: 81711
+  permalink: https://youtu.be/l9LTJdT0sZ8
+  tags: 
+  topic: 
+
+- number: 15
+  title: "Theranos, Silicon Valley, and the March Madness of Tech Fraud"
+  date: September 20th, 2021
+  description: "Theranos, Silicon Valley, and the March Madness of Tech Fraud"
+  content: "# Oxide and Friends Twitter Space: September 20th, 2021\n\n## Theranos, Silicon Valley, and the March Madness of Tech Fraud\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for September 20th, 2021](https://youtu.be/YWdk9CKML2g).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on September 20th included\n[Land Belenky](https://twitter.com/LBelenky),\n[Toasterson](https://twitter.com/TheRealToaster),\n[Cole Frederick](https://twitter.com/csp_frederick),\nand [Simeon Miteff](https://twitter.com/simeonmiteff).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- John Carreyrou on Theranos\n  - \"Bad Blood: Secrets and Lies in a Silicon Valley Startup\" 2018 [book][bb-book]\n  - \"Bad Blood the Final Chapter\" podcast as the trial proceeds\n    ([announcement](https://twitter.com/JohnCarreyrou/status/1413152952294940679)), on\n    [apple](https://podcasts.apple.com/us/podcast/bad-blood-the-final-chapter/id1575738174),\n    [spotify](https://podcasts.apple.com/us/podcast/bad-blood-the-final-chapter/id1575738174) \n- Cole's [tweet](https://twitter.com/csp_frederick/status/1440094757045211137)\n  linking to a ~5min [video](https://youtu.be/M1BbZ_qIMgM?t=225) of a would-be\n  Theranos competitor commenting on its collapse\n"
+  enclosure: audio/Theranos,_Silicon_Valley,_and_the_March_Madness_of_Tech_Fraud
+  length: 81711
+  permalink: https://youtu.be/YWdk9CKML2g
+  tags: 
+  topic: 
+
+- number: 16
+  title: "The Books in the Box"
+  date: September 27th, 2021
+  description: "The Books in the Box"
+  content: "# Oxide and Friends Twitter Space: September 27th, 2021\n\n## The Books in the Box\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for September 27th, 2021](https://youtu.be/zrZAHO89XGk).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on September 27th included\n[Tom Lyon](https://twitter.com/aka_pugs),\n[Dan Cross](https://twitter.com/dancrossnyc),\n[Antranig Vartanian](https://twitter.com/antranigv)\n[Simeon Miteff](https://twitter.com/simeonmiteff)\n[Matt Campbell](https://twitter.com/mw_campbell),\n[Jeremy Tanner](https://twitter.com/Penguin),\n[Joshua Clulow](https://twitter.com/jmclulow),\n[Ian](https://twitter.com/iangrunert),\n[Tim Burnham](https://twitter.com/AstroBurnham),\nand [Nathaniel Reindl](https://twitter.com/nrr).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- Not recommended :-(\n  - Dave Hitz and Pat Walsh (2008) _How to Castrate a Bull_\n    [book](https://www.google.com/books/edition/How_to_Castrate_a_Bull/zpefDwAAQBAJ)\n"
+  enclosure: audio/The_Books_in_the_Box
+  length: 81711
+  permalink: https://youtu.be/zrZAHO89XGk
+  tags: 
+  topic: 
+
+- number: 17
+  title: "Economics and Open Source"
+  date: October 4th, 2021
+  description: "Economics and Open Source"
+  content: "# Oxide and Friends Twitter Space: October 4th, 2021\n\n## Economics and Open Source\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for October 4th, 2021](https://youtu.be/JDd8xGSP9DA).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on October 4th included\n[Edwin Peer](https://twitter.com/EdwinPeer),\n[James Todd](https://twitter.com/jwtodd),\n[Peter Corless](https://twitter.com/PeterCorless),\n[Matt Campbell](https://twitter.com/mw_campbell),\n[jasonbking](https://twitter.com/jasonbking),\n[Simeon Miteff](https://twitter.com/simeonmiteff),\n[Josh Clulow](https://twitter.com/jmclulow),\n[Ian](https://twitter.com/iangrunert),\n[Joe Thompson](https://twitter.com/caffeinepresent),\n[Dan Cross](https://twitter.com/dancrossnyc),\n[Tom Lyon](https://twitter.com/aka_pugs),\n[Tim Burnham](https://twitter.com/AstroBurnham),\nand [vint serp](https://twitter.com/ZackMaril).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n"
+  enclosure: audio/Economics_and_Open_Source
+  length: 81711
+  permalink: https://youtu.be/JDd8xGSP9DA
+  tags: 
+  topic: 
+
+- number: 18
+  title: "Dijkstra's Tweetstorm"
+  date: October 18th, 2021
+  description: "Dijkstra's Tweetstorm"
+  content: "# Oxide and Friends Twitter Space: October 18th, 2021\n\n## Dijkstra's Tweetstorm\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for October 18th, 2021](https://youtu.be/D-Uzo7M-ioQ).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on October 18th included\n[Edwin Peer](https://twitter.com/EdwinPeer),\n[Dan Cross](https://twitter.com/DanCrossNYC),\n[Ryan Zezeski](https://twitter.com/rzezeski),\n[Tom Lyon](https://twitter.com/aka_pugs),\n[Aaron Goldman](https://twitter.com/aarondgoldman),\n[Simeon Miteff](https://twitter.com/simeonmiteff),\n[MattSci](https://twitter.com/MattSci2),\n[Nate](https://twitter.com/perlhack),\n[raycar5](https://twitter.com/raycar5),\n[night](https://twitter.com/0xCLI),\nand [Drew Vogel](https://twitter.com/drewonpaper).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- Dijkstra's 1975 \"How do we tell truths that might hurt?\" [EWD 498](https://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html)\n  [tweet](https://twitter.com/bcantrill/status/1449865842091442181)\n"
+  enclosure: audio/Dijkstra's_Tweetstorm
+  length: 81711
+  permalink: https://youtu.be/D-Uzo7M-ioQ
+  tags: 
+  topic: 
+
+- number: 19
+  title: "Coder's Block"
+  date: October 25th, 2021
+  description: "Coder's Block"
+  content: "# Oxide and Friends Twitter Space: October 25th, 2021\n\n## Coder's Block\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for October 25th, 2021](https://youtu.be/QGs5hlH6cLk).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on October 25th included\n[Brigid Gaffikin](https://twitter.com/bgaff),\n[Tom Lyon](https://twitter.com/aka_pugs),\n[MattSci](https://twitter.com/MattSci2),\n[Simeon Miteff](https://twitter.com/simeonmiteff),\n[Edwin Peer](https://twitter.com/EdwinPeer),\n[Ian](https://twitter.com/iangrunert),\n[Nima Johari](https://twitter.com/NimaJohari),\n[Matt Campbell](https://twitter.com/mw_campbell),\n[Joshua Hoeflich](https://twitter.com/hoeflich_joshua),\n[Bill](https://twitter.com/billblum),\n[Ariel Machado](https://twitter.com/ArielGMachado), and\n[Kendall Morgan](https://twitter.com/kendallmorgan).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- BattleTris stories\n"
+  enclosure: audio/Coder's_Block
+  length: 81711
+  permalink: https://youtu.be/QGs5hlH6cLk
+  tags: 
+  topic: 
+
+- number: 20
+  title: "On Code Review"
+  date: November 1st, 2021
+  description: "On Code Review"
+  content: "# Oxide and Friends Twitter Space: November 1st, 2021\n\n## On Code Review\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for November 1st, 2021](https://youtu.be/JZdXDyeSvtc).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on November 1st included\n[Kendall Morgan](https://twitter.com/kendallmorgan),\n[Edwin Peer](https://twitter.com/EdwinPeer),\n[Ryan Zezeski](https://twitter.com/rzezeski),\n[Ian](https://twitter.com/iangrunert),\n[Joshua Hoeflich](https://twitter.com/hoeflich_joshua),\n[ZK Miyavi](https://twitter.com/zkmiyavi),\n[Jason Ozolins](https://twitter.com/JasonOzolins),\n[Nick Sherron](https://twitter.com/sherron_nick) and\n[Austin Wise](https://twitter.com/AustinWise).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- Context [tweet](https://twitter.com/bcantrill/status/1455294426226462723)\n- Kendall Morgan (2021) \"Thoughts on Code Review\"\n  [essay](https://kendallmorgan.com/posts/thoughts-on-code-reviews/)\n- [@3:57](https://youtu.be/JZdXDyeSvtc?t=237)\n"
+  enclosure: audio/On_Code_Review
+  length: 81711
+  permalink: https://youtu.be/JZdXDyeSvtc
+  tags: 
+  topic: 
+
+- number: 21
+  title: "Supercomputers, Cray, and How Sun Picked SGI's Pocket"
+  date: November 8th, 2021
+  description: "Supercomputers, Cray, and How Sun Picked SGI's Pocket"
+  content: "# Oxide and Friends Twitter Space: November 8th, 2021\n\n## Supercomputers, Cray, and How Sun Picked SGI's Pocket\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for November 8th, 2021](https://youtu.be/y07PyBrrzMw).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on November 8th included\n[Tom Lyon](https://twitter.com/aka_pugs),\n[Shahin Khan](https://twitter.com/ShahinKhan),\n[Darryl Ramm](https://twitter.com/darryl_ramm),\n[Dan Cross](https://twitter.com/dancrossnyc),\n[Courtney Malone](https://twitter.com/courtneymalone),\n[MattSci](https://twitter.com/MattSci2),\n[Aaron Goldman](https://twitter.com/aarondgoldman),\n[Simeon Miteff](https://twitter.com/simeonmiteff),\nand [Jason Ozolins](https://twitter.com/JasonOzolins).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- Bryan's [tweet](https://twitter.com/bcantrill/status/1457838757671944196)\n  about George Brown's recommending \"The Supermen\"\n- Charles Murray (1997) \"The Supermen: The story of Seymour Cray and\n  the Technical Wizards Behind the Supercomputer\"\n"
+  enclosure: audio/Supercomputers,_Cray,_and_How_Sun_Picked_SGI's_Pocket
+  length: 81711
+  permalink: https://youtu.be/y07PyBrrzMw
+  tags: 
+  topic: 
+
+- number: 22
+  title: "The Wrath of Kahn"
+  date: November 15th, 2021
+  description: "The Wrath of Kahn"
+  content: "# Oxide and Friends Twitter Space: November 15th, 2021\n\n## The Wrath of Kahn\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for November 15th, 2021](https://youtu.be/oft5i5RzIC8).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on November 15th included\n[Dan Cross](https://twitter.com/dancrossnyc),\n[Tom Lyon](https://twitter.com/aka_pugs),\n[Antranig Vartanian](https://twitter.com/antranigv),\n[Mat Trudel](https://twitter.com/mattrudel),\n[Gabe Rudy](https://twitter.com/gabeinformatics),\n[Simeon Miteff](https://twitter.com/simeonmiteff) and\n[bch](https://twitter.com/bcharder).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- Severo Ornstein (2002)\n  _Computing in the Middle Ages: A View from the Trenches 1955-1983_\n  [book](https://www.google.com/books/edition/Computing_in_the_Middle_Ages/4THavgEACAAJ)\n  - [TX-2](https://en.wikipedia.org/wiki/TX-2) computer in 1958\n  - [LINC](https://en.wikipedia.org/wiki/LINC)\n    Laboratory INstrument Computer in 1962\n"
+  enclosure: audio/The_Wrath_of_Kahn
+  length: 81711
+  permalink: https://youtu.be/oft5i5RzIC8
+  tags: 
+  topic: 
+
+- number: 23
+  title: "Talking Turkeys"
+  date: November 22nd, 2021
+  description: "Talking Turkeys"
+  content: "# Oxide and Friends Twitter Space: November 22nd, 2021\n\n## Talking Turkeys\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for November 22nd, 2021](https://youtu.be/U10SuAHV8kQ).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on November 22nd included\n[Rick Altherr](https://twitter.com/kc8apf),\n[Ian](https://twitter.com/iangrunert),\n[Simeon Miteff](https://twitter.com/simeonmiteff),\n[MattSci](https://twitter.com/MattSci2),\n[Nahum Shalman](https://twitter.com/nahumshalman),\n[Jason Ozolins](https://twitter.com/JasonOzolins),\n[pgray](https://twitter.com/pgray__),\n[Bill Blum](https://twitter.com/billblum),\n[Matt Ranney](https://twitter.com/mranney),\n[Matt Campbell](https://twitter.com/mw_campbell),\n[FesterCluck](https://twitter.com/FesterCluck),\n[Rahul Saxena](https://twitter.com/rksio) and\n[Bartz the Man](https://twitter.com/Bartz_the_Man).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n"
+  enclosure: audio/Talking_Turkeys
+  length: 81711
+  permalink: https://youtu.be/U10SuAHV8kQ
+  tags: 
+  topic: 
+
+- number: 24
+  title: "The Sidecar Switch"
+  date: November 29nd, 2021
+  description: "The Sidecar Switch"
+  content: "# Oxide and Friends Twitter Space: November 29th, 2021\n\n## The Sidecar Switch\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for November 29th, 2021](https://youtu.be/yl24yHlLRy0).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nour special guest was\n[Arjen Roodselaar](https://twitter.com/arjenroodselaar);\nother speakers on November 29th included\n[Rick Altherr](https://twitter.com/kc8apf),\n[Simeon Miteff](https://twitter.com/simeonmiteff),\n[MattSci](https://twitter.com/MattSci2),\n[Jason Ozolins](https://twitter.com/JasonOzolins),\n[Thomas](https://twitter.com/tpw_rules) and\n[Edwin Peer](https://twitter.com/EdwinPeer).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- [@3:04](https://youtu.be/yl24yHlLRy0?t=184) Arjen's\n  [announcement](https://twitter.com/arjenroodselaar/status/1463370051679973377)\n  about the rack switch\n- Cadence Allegro PCB\n  [editor](https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/pcb-layout/allegro-pcb-designer.html)\n"
+  enclosure: audio/The_Sidecar_Switch
+  length: 81711
+  permalink: https://youtu.be/yl24yHlLRy0
+  tags: 
+  topic: 
+
+- number: 25
+  title: "Tales from the Bringup Lab"
+  date: December 6th, 2021
+  description: "Tales from the Bringup Lab"
+  content: "# Oxide and Friends Twitter Space: December 6th, 2021\n\n## Tales from the Bringup Lab\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for December 6th, 2021](https://www.youtube.com/watch?v=lhji-kP3Lhk).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on December 6th included special guests\n[Nathanael Huffman](https://twitter.com/SyntheticGate),\n[Eric Aasen](https://twitter.com/random_enginerd),\nas well as\n[Rick Altherr](https://twitter.com/kc8apf),\n[MattSci](https://twitter.com/MattSci2),\n[Dan Cross](https://twitter.com/dancrossnyc) and\n[Steve Tuck](https://twitter.com/sdtuck).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- [@5:57](https://youtu.be/lhji-kP3Lhk?t=357) Lay of the land\n- [@6:58](https://youtu.be/lhji-kP3Lhk?t=418) Power\n- [@11:14](https://youtu.be/lhji-kP3Lhk?t=674)\n  Matt: what goes in the middle of the board?\n- [@14:32](https://youtu.be/lhji-kP3Lhk?t=872)\n  [iCE40](https://en.wikipedia.org/wiki/ICE_(FPGA)#iCE40_(40_nm)) FPGA\n"
+  enclosure: audio/Tales_from_the_Bringup_Lab
+  length: 81711
+  permalink: https://www.youtube.com/watch?v=lhji-kP3Lhk
+  tags: 
+  topic: 
+
+- number: 26
+  title: "The Pragmatism of Hubris"
+  date: December 13th, 2021
+  description: "The Pragmatism of Hubris"
+  content: "# Oxide and Friends Twitter Space: December 13th, 2021\n\n## The Pragmatism of Hubris\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for December 13th, 2021](https://youtu.be/cypmufnPfLw).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on December 13th included special guests\n[Cliff Biffle](http://cliffle.com/about/) and\n[Steve Klabnik](https://twitter.com/steveklabnik)\nas well as\n[Laura Abbott](https://twitter.com/openlabbott),\n[Rick Altherr](https://twitter.com/kc8apf),\n[James Tucker](https://twitter.com/raggi),\n[Simeon Miteff](https://twitter.com/simeonmiteff) and\n[MattSci](https://twitter.com/MattSci2).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- Hubris and Humility context\n  [tweet](https://twitter.com/bcantrill/status/1470519954566832129)\n- Cliff's [written version](http://cliffle.com/blog/on-hubris-and-humility/)\n  of his Hubris talk\n- Hubris Fervently Anticipated Questions [FAQ](https://github.com/oxidecomputer/hubris/blob/master/FAQ.mkdn)\n"
+  enclosure: audio/The_Pragmatism_of_Hubris
+  length: 81711
+  permalink: https://youtu.be/cypmufnPfLw
+  tags: 
+  topic: 
+
+- number: 27
+  title: "Predictions 2022"
+  date: January 3rd, 2022
+  description: "Predictions 2022"
+  content: "# Oxide and Friends Twitter Space: January 3rd, 2022\n\n## Predictions 2022\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for January 3rd, 2022](https://youtu.be/uZylf2gbg_E).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nour special guest on January 3rd included was tech prediction expert and noted Red Sox fan\n[Steven O'Grady](https://twitter.com/sogrady).\n\nBelow is a table of the oracles and their predictions:\n(If you made predictions, please submit a PR to add or clarify yours)\n\n<table>\n<tr>\n<th>Futurist</th>\n<th>1 year</th>\n<th>3 year</th>\n<th>6 year</th>\n</tr>\n\n<tr>\n<td>\n<a href=\"https://twitter.com/lzrd\">Ben Stoltz</a><br>\n<a href=\"https://youtu.be/uZylf2gbg_E?t=5080\">1:24:40</a>\n"
+  enclosure: audio/Predictions_2022
+  length: 81711
+  permalink: https://youtu.be/uZylf2gbg_E
+  tags: 
+  topic: 
+

@@ -1,0 +1,69 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>{{ site.name }}</title>
+    <link>{{ site.url }}</link>
+    <description>{{ site.description }}</description>
+    <language>en-us</language>
+
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>{{ site.description }}</itunes:summary>
+    <itunes:subtitle>{{ site.description | truncate: 255 }}</itunes:subtitle>
+    <itunes:author>{{ site.author }}</itunes:author>
+    <itunes:owner>
+      <itunes:email>{{ site.email }}</itunes:email>
+      <itunes:name>{{ site.author }}</itunes:name>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>Yes</itunes:explicit>
+    <itunes:block>No</itunes:block>
+    <itunes:keywords>{{ site.tags }}</itunes:keywords>
+    <itunes:category text="Technology">
+      <itunes:category text="Podcasting" />
+    </itunes:category>
+    <itunes:image href="{{ site.url }}/{{ site.logo }}" />
+
+    <image>
+      <title>{{ site.name }}</title>
+      <link>{{ site.url }}</link>
+      <url>{{ site.url }}/{{ site.logo }}</url>
+    </image>
+
+    <atom:link rel="self" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml" />
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="{{ site.feed }}" />
+
+    <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
+
+    {% for post in site.data.episodes %}
+    <item>
+      <title>#{{ post.number}} - {{ post.title }}</title>
+      <link>{{ post.permalink }}</link>
+      <description>{% if post.content %} <![CDATA[{{ post.content }}]]> {% else %} {{ post.description }}{% endif %}</description>
+      <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
+      <guid isPermaLink="false">{{ post.enclosure }}.mp3</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <author>{{ site.email }}</author>
+
+
+      <itunes:title>#{{ post.number}} - {{ post.title }}</itunes:title>
+      <itunes:author>{{ site.author }}</itunes:author>
+      <itunes:subtitle> {{ post.description}} </itunes:subtitle>
+      <itunes:summary>{{ post.content | strip_html | truncate: 4000}} </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>{{ post.tags }}</itunes:keywords>
+      <itunes:image href="{{ site.url }}/{{ site.logo }}" />
+
+      <enclosure url="{{ site.url }}/{{ post.enclosure }}.mp3" length="{{ post.length }}" type="audio/mp3" />
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
