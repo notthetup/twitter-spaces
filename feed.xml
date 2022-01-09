@@ -45,7 +45,7 @@ layout: null
 
     {% for post in site.data.episodes %}
     <item>
-      <title>#{{ post.number}} - {{ post.title }}</title>
+      <title>#{{ forloop.index }} - {{ post.title }}</title>
       <link>{{ post.permalink }}</link>
       <description>{% if post.content %} <![CDATA[{{ post.content }}]]> {% else %} {{ post.description }}{% endif %}</description>
       <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
@@ -54,10 +54,10 @@ layout: null
       <author>{{ site.email }}</author>
 
 
-      <itunes:title>#{{ post.number}} - {{ post.title }}</itunes:title>
+      <itunes:title>#{{ forloop.index }} - {{ post.title }}</itunes:title>
       <itunes:author>{{ site.author }}</itunes:author>
       <itunes:subtitle> {{ post.description}} </itunes:subtitle>
-      <itunes:summary>{{ post.content | strip_html | truncate: 4000}} </itunes:summary>
+      <itunes:summary>{{ post.content | strip_html | truncate: 4000 }} </itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>{{ post.tags }}</itunes:keywords>
       <itunes:image href="{{ site.url }}/{{ site.logo }}" />

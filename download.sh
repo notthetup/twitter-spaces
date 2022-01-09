@@ -9,7 +9,8 @@ while IFS= read -r ep; do
 	link=$(cut -d '|' -f 3 <<< $ep |  cut -d "(" -f2 | cut -d ")" -f1)
 	notes=$(cut -d '|' -f 4 <<< $ep | cut -d "(" -f2 | cut -d ")" -f1)
     outputname=${title// /_}
-    outputname=${outputname//\//\\}
+    outputname=${outputname//\//}
+    outputname=${outputname//\?/}
     printf "Date : $date\nTitle : $title\nNotes : $notes\nLink : $link\n"
 
 	if [ -f "audio/$outputname.mp3" ]; then 
