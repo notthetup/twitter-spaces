@@ -77,7 +77,7 @@ title: (Unofficial) Oxide and Friends Twitter Spaces Podcast
 
 {% for post in site.data.episodes %}
 
-### {{ post.title }} ({{ post.date | date: "%Y-%m-%d" }})
+### #{{ forloop.index }} - {{ post.title }} ({{ post.date | date: "%Y-%m-%d" }})
 
 **Original Episode:** [{{ post.permalink }}]({{ post.permalink }})
 
