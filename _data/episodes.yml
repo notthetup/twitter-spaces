@@ -294,3 +294,36 @@
   permalink: https://youtu.be/uZylf2gbg_E
   tags: 
   topic: 
+- number: 27
+  title: "Flying Blind with Peter Robison"
+  date: January 10th, 2022
+  description: "Flying Blind with Peter Robison"
+  content: "# Oxide and Friends Twitter Space: January 10th, 2022\n\n## Flying Blind with Peter Robison\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for January 10th, 2022](https://youtu.be/q6i9NPslfE4).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nour special guest was\n[Peter Robison](https://twitter.com/petermrobison).\n\nOther speakers on January 10th included\n[MattSci](https://twitter.com/MattSci2) and\n[Simeon Miteff](https://twitter.com/simeonmiteff).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- [@5:02](https://youtu.be/q6i9NPslfE4?t=302)\n  Peter on [Japan Air Lines Flight 123](https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_123)\n- [Boeing 777](https://en.wikipedia.org/wiki/Boeing_777)\n> Bryan: The things I am the most proud of are the things I've worked with other people on,\n> when a team does something that feels beyond an individual's grasp.\n- [@12:25](https://youtu.be/q6i9NPslfE4?t=745) Peter's history covering aerospace\n  - [McDonnell Douglas](https://en.wikipedia.org/wiki/McDonnell_Douglas)\n- [@15:53](https://youtu.be/q6i9NPslfE4?t=953)\n"
+  enclosure: audio/Flying_Blind_with_Peter_Robison
+  length: 43065678
+  permalink: https://youtu.be/q6i9NPslfE4
+  tags: 
+  topic: 
+
+- number: 28
+  title: "Taxonomy of Hype"
+  date: January 24th, 2022
+  description: "Taxonomy of Hype"
+  content: "# Oxide and Friends Twitter Space: January 24th, 2022\n\n## Taxonomy of Hype\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for January 24th, 2022](https://youtu.be/qrWgmkBfn9s).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on January 24th included\n[MattSci](https://twitter.com/MattSci2),\n[Todd Gamblin](https://twitter.com/tgamblin),\n[Aaron Goldman](https://twitter.com/aarondgoldman) and\n[Tom Lyon](https://twitter.com/aka_pugs).\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- The [tweet](https://twitter.com/bcantrill/status/1485689044109443073) about the topic:\n  Johannes Klingebiel's (2022) _The five Levels of Hype_\n  [taxonomy](https://johannesklingebiel.de/2022/01/12/hype-as-a-scale.html)\n- [@8:24](https://youtu.be/qrWgmkBfn9s?t=504)\n  Roko's Basilisk\n  ([slate.com](https://slate.com/technology/2014/07/rokos-basilisk-the-most-terrifying-thought-experiment-of-all-time.html))\n- [@10:21](https://youtu.be/qrWgmkBfn9s?t=621) Cloud Computing\n- [@12:09](https://youtu.be/qrWgmkBfn9s?t=729) Mobile,\n  Wi-Fi (introduced in 1997)\n"
+  enclosure: audio/Taxonomy_of_Hype
+  length: 39640711
+  permalink: https://youtu.be/qrWgmkBfn9s
+  tags: 
+  topic: 
+
+- number: 29
+  title: "I Know This!"
+  date: February 7th, 2022
+  description: "I Know This!"
+  content: "# Oxide and Friends Twitter Space: February 7th, 2022\n\n## I Know This! (Purpose-built systems with general-purpose guts)\n\nWe've been holding a Twitter Space weekly on Mondays at 5p for about an hour.\nEven though it's not (yet?) a feature of Twitter Spaces, we have been\nrecording them all; here is\n[the recording for our Twitter Space for February 7th, 2022](https://youtu.be/WsvJT6i_atw).\n\nIn addition to\n[Bryan Cantrill](https://twitter.com/bcantrill) and\n[Adam Leventhal](https://twitter.com/ahl),\nspeakers on February 7th included\n[XXX](),\nand [YY]().\n(Did we miss your name and/or get it wrong? Drop a PR!)\n\nSome of the topics we hit on, in the order that we hit them:\n\n- [Topic](link)\n- [@M:SS](link into recording)\n  *Leventhal's Conundrum*\n- PRs needed!\n\nIf we got something wrong or missed something, please file a PR!\nOur next Twitter space will likely be on Monday at 5p Pacific Time; stay tuned\nto our Twitter feeds for details.  We'd love to have you join us, as we\nalways love to hear from new speakers!\n\n"
+  enclosure: audio/I_Know_This!
+  length: 38711379
+  permalink: https://youtu.be/WsvJT6i_atw
+  tags: 
+  topic: 
+
